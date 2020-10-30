@@ -23,7 +23,7 @@ Download and install these right away to ensure an optimal Ionic development exp
 After that follow the instuctions bellow.
 
 - [Follow the instructions](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html)
-- ###### Check if **JDK** installed succesfully via **cmd**  `java -version`
+ ###### Check if **JDK** installed succesfully via **cmd**  `java -version`
 
 
 
