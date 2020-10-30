@@ -57,4 +57,4 @@ Now open your project with Visual Studio Code and run in Terminal
 - `npm install -g @ionic/cli native-run cordova-res`
 - `ionic serve`  To run your app
 
-Advice [Ionic documentation](https://ionicframework.com/docs/intro/cli).
+Consult the  [Ionic documentation](https://ionicframework.com/docs/intro/cli).
