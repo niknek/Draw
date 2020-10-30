@@ -1,11 +1,11 @@
 # Run an Ionic app from scratch
 
-### Download Required Tools
+## Download Required Tools
 
 Download and install these right away to ensure an optimal Ionic development experience:
 
 
-## **Visual Code**
+### **Visual Code**
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 
 
@@ -17,7 +17,7 @@ Download and install these right away to ensure an optimal Ionic development exp
 
 
 
-## **JDK**
+### **JDK**
 
 ###### If you have previously installed older version(s) of JDK/JRE, un-install ALL of them and download [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
 After that follow the instuctions bellow.
@@ -28,7 +28,7 @@ After that follow the instuctions bellow.
 
 
 
-## **SDK Android Studio**
+### **SDK Android Studio**
 - ###### [SDK download](https://developer.android.com/studio/index.html#downloads)
 
 - [Installation guide](https://ionicframework.com/docs/developing/android)
@@ -36,13 +36,13 @@ After that follow the instuctions bellow.
 
 
 
-## **Gradle**
+### **Gradle**
 
--If you install the Android SDK without Android Studio you have to install Gradle seperatly.
+If you install the Android SDK without Android Studio you have to install Gradle seperatly.
  Download Gradle from the offical [Gradle website](https://gradle.org/)
 
 
-### If you have done all the installations you have to set enviroment variables for SDK
+## If you have done all the installations you have to set enviroment variables for SDK
 
 |                     Set up with Command Line                       |
 | ------------------------------------------------------------------ |
