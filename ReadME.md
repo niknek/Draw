@@ -40,7 +40,7 @@ After that follow the instuctions bellow.
 
 If you install the Android SDK without Android Studio you have to install Gradle seperatly.
  Download Gradle from the offical [Gradle website](https://gradle.org/)
-
+-Set up enviroment variables for gradle [doc](https://gradle.org/install/)
 
 ### If you have done all the installations you have to set enviroment variables for SDK
 
