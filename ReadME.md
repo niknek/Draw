@@ -53,8 +53,8 @@ If you install the Android SDK without Android Studio you have to install Gradle
 
 ## That's it! 
 Now open your project with Visual Studio Code and run in Terminal
-- `npm istall` To bring the node_modelus
+- `npm istall`  To bring the node_modelus
 - `npm install -g @ionic/cli native-run cordova-res`
-- `ionic serve` To run your app
+- `ionic serve`  To run your app
 
 Advice [Ionic documentation](https://ionicframework.com/docs/intro/cli).
