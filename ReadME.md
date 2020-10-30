@@ -42,7 +42,7 @@ After that follow the instuctions bellow.
  Download Gradle from the offical [Gradle website](https://gradle.org/)
 
 
-#### If you have done all the installations you have to set enviroment variables for SDK
+### If you have done all the installations you have to set enviroment variables for SDK
 
 |                     Set up with Command Line                       |
 | ------------------------------------------------------------------ |
