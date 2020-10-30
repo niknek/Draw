@@ -6,12 +6,12 @@ Download and install these right away to ensure an optimal Ionic development exp
 
 
 ## **Visual Code**
--[Download Visual Studio Code](https://code.visualstudio.com/download)
+- [Download Visual Studio Code](https://code.visualstudio.com/download)
 
 
 
 ### **Node.js** for interacting with the Ionic ecosystem. 
--[Download the LTS version](https://nodejs.org/en/)
+- [Download the LTS version](https://nodejs.org/en/)
 ###### Check if **Node.js** installed succesfully via **cmd**  `node -v`
 
 
