@@ -42,10 +42,13 @@ If you install the Android SDK without Android Studio you have to install Gradle
  Download Gradle from the offical [Gradle website](https://gradle.org/)
 
 
-## If you have done all the installations you have to set enviroment variables for SDK
+### If you have done all the installations you have to set enviroment variables for SDK
 
 |                     Set up with Command Line                       |
 | ------------------------------------------------------------------ |
 | set ANDROID_HOME=C:\<installation location>\sdk                    |
 | set PATH=%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools |
 | set GRADLE_HOME=C:\<installation location>                         |
+
+
+## That's it! Go to [Ionic documentation](https://ionicframework.com/docs/intro/cli) to istall the appropriate packages to run your app.
